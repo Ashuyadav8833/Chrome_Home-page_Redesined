@@ -8,6 +8,7 @@ A clean, futuristic, and responsive Chrome New Tab/Home page designed for softwa
 
 
 🌌 Theme & Visual Design
+
 Style: Dark-mode cyberpunk, dashboard-driven, glassmorphism UI.
 Layout: Standardized 3-column responsive grid (Bookmarks | Central Search | Diagnostics & Tasks).
 Color Palette:
@@ -15,6 +16,7 @@ Primary Accent: Cyan (#00E5FF)
 Secondary Accent: Purple (#7C4DFF)
 Success/Active state: Mint Green (#00FF95)
 Background: Interactive, lightweight HTML5 2D Canvas that renders a moving network of proximity-connected particles over an elegant code-grid texture.
+
 🛠️ Key Features
 1. Left Column: Bookmark Registry
 Collapsible Categories: Group links logically into expandable and collapsible folder nodes (e.g., Development, Learning, AI Resources).
@@ -31,6 +33,8 @@ Daily Directives (Task List):
 Add targets via an inline console bar.
 Check off tasks with a fading strikethrough animation.
 Automatic IST Midnight Reset: To align with developer productivity cycles, all active directives clear automatically at 00:00 IST (Indian Standard Time / Asia/Kolkata timezone) daily.
+
+
 🚀 How to Install and Use
 Option 1: Run Locally
 Clone this repository to your machine:
@@ -58,6 +62,8 @@ Enable Developer mode (toggle switch in the top-right corner).
 Click Load unpacked in the top-left corner.
 Select the directory containing your index.html and manifest.json files.
 Open a new tab and authorize the extension replacement when prompted.
+
+
 🧬 Technology Stack
 Markup & Structure: HTML5 (Clean, semantic tags)
 Styling: Pure CSS3 variables, Flexbox, CSS Grid, custom keyframes, and glassmorphism.
@@ -65,9 +71,13 @@ Behavior: Modern Vanilla JS (ES6+) for event handling, localStorage sync, networ
 APIs:
 Weather Data: Open-Meteo API (No API key required)
 Location Resolution: Nominatim OpenStreetMap (Reverse Geocoding)
+
+
 🔒 Security and Privacy
 Zero External Trackers: DevOS is entirely offline-first. Your bookmark links, categories, and daily tasks never leave your computer.
 Local Storage: All application data is stored locally in your browser's partition via standard localStorage APIs.
+
+
 📄 License & Copyright
 Copyright © 2026 Ashu Yadav (Ashu8833).
 This project is open-source and released under the terms of the MIT License. Feel free to use, customize, modify, and distribute this template for personal or educational use.
