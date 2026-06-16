@@ -5,6 +5,8 @@ A clean, futuristic, and responsive Chrome New Tab/Home page designed for softwa
 <img src="https://img.shields.io/badge/PRs-welcome-7C4DFF?style=flat-square" alt="PRs Welcome">
 <img src="https://img.shields.io/badge/Author-Ashu%20Yadav-00FF95?style=flat-square" alt="Author Ashu Yadav">
 </p>
+
+
 🌌 Theme & Visual Design
 Style: Dark-mode cyberpunk, dashboard-driven, glassmorphism UI.
 Layout: Standardized 3-column responsive grid (Bookmarks | Central Search | Diagnostics & Tasks).
